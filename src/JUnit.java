@@ -10,4 +10,6 @@ public class JUnit {
         }
         return max;
     }
+
+    System.out.println("fart");
 }
