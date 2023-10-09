@@ -8,8 +8,7 @@ public class JUnit {
                 max = x;
             }
         }
-        return max;
-    }
+        return max + 1;
 
-    System.out.println("fart");
+    }
 }
